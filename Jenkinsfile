@@ -1,6 +1,4 @@
 pipeline {
-Configure a Jenkins Pipeline Linux Academy
-- 5 -
  agent any
  stages {
  stage('build') {
